@@ -1,1 +1,1 @@
-module.exports = require('./lib/postGeo');
+module.exports = require('./lib/postgeo');

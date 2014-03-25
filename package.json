@@ -1,5 +1,5 @@
 {
-  "name": "postGeo",
+  "name": "postgeo",
   "version": "0.1.0",
   "description": "Return PostGIS queries as GeoJSON or TopoJSON",
   "keywords": [
@@ -7,10 +7,10 @@
     "TopoJSON",
     "GeoJSON"
   ],
-  "main": "./postGeo",
+  "main": "./postgeo",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/jczaplew/postGeo.git"
+    "url" : "https://github.com/jczaplew/postgeo.git"
   },
   "author": "John J Czaplewski",
   "license": "CC0",
