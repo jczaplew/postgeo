@@ -14,6 +14,12 @@ postgeo.query("SELECT id, name ST_AsGeoJSON(geom) AS geometry FROM table", "geoj
 });
 ````
 
+######  Installation
+````
+npm install postgeo
+````
+
+
 ## API
 The API is very limited for now, but there is a lot of room for extension and improvement. Feel free to contribute!
 
