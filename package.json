@@ -1,6 +1,6 @@
 {
   "name": "postgeo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Return PostGIS queries as GeoJSON or TopoJSON",
   "keywords": [
     "PostGIS",
@@ -15,8 +15,8 @@
   "author": "John J Czaplewski",
   "license": "CC0",
   "dependencies": {
-    "async": "latest",
-    "pg": "latest",
-    "topojson" : "latest"
+    "async": ">=0.8.0",
+    "pg": ">=3.x",
+    "topojson" : ">=1.6.x"
   }
 }
