@@ -1,3 +1,5 @@
+## Deprecated - please use [dbgeo](https://github.com/jczaplew/dbgeo) instead.
+
 # postgeo
 A Node.js module for returning [PostGIS](http://postgis.net/) queries as usable [GeoJSON](http://geojson.org/) or [TopoJSON](https://github.com/mbostock/topojson) objects. While PostGIS allows you to select geometries as GeoJSON with [ST_AsGeoJSON](http://www.postgis.org/docs/ST_AsGeoJSON.html), it does not return the entire query as a usable GeoJSON FeatureCollection for use with mapping APIs such as [Leaflet.js](http://leafletjs.com/) or [D3.js](http://d3js.org/).
 
